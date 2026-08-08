@@ -3,7 +3,7 @@
 **Candidate name:** Jidhin N S
 **Email:** jidhinns2525@gmail.com
 **Date:** 08/08/2026
-**GitHub repo link:** https://github.com/Jidhin71/xipl-sde-tryon-assessment/blob/main/tryon_pipeline_assessment.ipynb
+**GitHub repo link:** https://github.com/Jidhin71/xipl-sde-tryon-assessment/tree/main
 **Demo video link (max 5 min):** https://drive.google.com/file/d/1INj4OzqY40LNZdlKCHqrL6AlyEVkZiLO/view?usp=drive_link
 **Colab notebook links (if used):** https://colab.research.google.com/drive/16ksRoI6m8D-3GzB2OfePqFiZ2B9qTfg0#scrollTo=VxHchclOn3_J
 
