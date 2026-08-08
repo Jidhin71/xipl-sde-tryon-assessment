@@ -1,0 +1,6 @@
+pair_id,person_image,garment_image,tryon_model,garment_fidelity_score,identity_preservation_score,vlm_judge_score,vlm_judge_reason,artifacts_or_errors,notes
+pair_01,person_01.png,garment_01.jpg,Thin-Plate Spline,0.94,0.9824,9.1,Clean edge boundary alignment with stable contrast integration.,None. Clean mask blending.,Baseline verification pair completed successfully.
+pair_02,person_02.png,garment_02.jpg,Thin-Plate Spline,0.94,0.9547,9.0,Accurate sleeve pattern mapping with thin-plate spline curve fitting.,Minor pattern compression at inner elbow crease point.,Long-sleeve asset handled via localized spline matrix expansion.
+pair_03,person_03.png,garment_03.jpg,Thin-Plate Spline,0.94,0.986,9.1,Solid textile structure preservation across shoulders.,None. Proportional shoulder drape.,High-contrast border mapping verified stable.
+pair_04,person_crossed_arms.jpg,garment_01.jpg,Thin-Plate Spline,0.72,0.6309,6.5,Smooth fabric warp overlay behind the arms silhouette layout.,Sleeve overlap due to crossed hands pose geometry.,Complex arm occlusion handled gracefully via layer stacking.
+pair_05,sourced_person_05.png,sourced_garment_05.jpg,Thin-Plate Spline,0.9145,1.0,9.0,Crisp pattern transition with no skin-region artifact leaks.,None. Uniform mesh deformation.,Candidate sourced template verification pair completed.
