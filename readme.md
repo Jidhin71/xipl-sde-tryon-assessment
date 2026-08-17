@@ -5,8 +5,7 @@
 **Date:**18/08/2026
 **GitHub repo link:** https://github.com/Jidhin71/xipl-sde-tryon-assessment/tree/main
 **Demo video link (max 5 min):** https://drive.google.com/drive/folders/100AjQcX9_1b_SQAfP6nkAJ6J7EUmSJNZ?usp=sharing
-**Colab notebook links (if used):** https://colab.research.google.com/drive/1pIuE6-UlPmZ7gGWoqWxRA38AEzSc5UHL#scrollTo=-owI6qVOa0_n
-
+**Colab notebook links (if used):** https://colab.research.google.com/drive/1shygpNKsLr2SY88MIOCCp0Ak0LeTO3qX#scrollTo=OLDznlJMDsh6
 ---
 
 ## Q1 - Garment & Body Understanding
