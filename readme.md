@@ -3,7 +3,7 @@
 **Candidate name:** Jidhin N S
 **Email:**jidhinns2525@gmail.com
 **Date:**18/08/2026
-**GitHub repo link:** https://colab.research.google.com/drive/1pIuE6-UlPmZ7gGWoqWxRA38AEzSc5UHL#scrollTo=-owI6qVOa0_n
+**GitHub repo link:** 
 **Demo video link (max 5 min):** https://drive.google.com/drive/folders/100AjQcX9_1b_SQAfP6nkAJ6J7EUmSJNZ?usp=sharing
 **Colab notebook links (if used):** https://colab.research.google.com/drive/1pIuE6-UlPmZ7gGWoqWxRA38AEzSc5UHL#scrollTo=-owI6qVOa0_n
 
